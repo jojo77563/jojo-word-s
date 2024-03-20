@@ -1,0 +1,18 @@
+Li{
+Display: inline;
+Float: left;
+}
+Li a.active{
+Background-Color: blue;
+Color: #dddddd;
+}
+Li a{
+Background-Color: #dddddd;
+Display: block;
+Color: black;
+Text-align: center;
+Padding: 8px 10px;
+}
+body{background-image: url(pic.jpg.jpg);
+    background-size: cover;
+    background-position: center;}
